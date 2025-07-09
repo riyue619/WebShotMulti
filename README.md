@@ -3,7 +3,7 @@
 WebShotMulti_3.0 是一款基于 Python 开发的多线程网页截图工具，支持批量输入 URL 并自动生成截图报告。通过图形化界面操作，可灵活设置线程数量、输出目录和浏览器驱动路径，适用于网页批量截图、网站状态检查等场景。
 ## 补充
 
-使用的是python的selenium自动化，没有使用playwright自动化 虽然说playwright环境配置起来比较简单，但是我感觉playwright截图速度没有selenium快 所以先来无事就用selenium写了一个自动站点探测的小工具
+使用的是python的selenium自动化，没有使用playwright自动化 虽然说playwright环境配置起来比较简单，但是我感觉playwright截图速度没有selenium快 所以闲来无事就用selenium写了一个自动站点探测的小工具
 ## 功能特点
 
 - **多线程处理**：支持自定义线程数量，高效批量处理多个 URL
